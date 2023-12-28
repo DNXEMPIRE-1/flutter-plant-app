@@ -21,7 +21,7 @@
 - **Personal Plant Collection 📚:**
   - Create and manage your personal collection of plants.
 
-- **Care Reminders ⏰:**
+- **New Reminders ⏰:**
   - Set reminders for watering, fertilizing, or other care activities.
 
 - **Community Engagement 🌍:**
