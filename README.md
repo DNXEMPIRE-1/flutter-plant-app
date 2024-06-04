@@ -1,10 +1,11 @@
 # Flutter Plant App 🌿📱
 
+<p align="center">A Flutter app for plant enthusiasts to explore, identify, and manage their plant collections.</p>
+
 <p align="center">
-  <img src="https://your-plant-app-logo-url.com" alt="Plant App Logo" width="150">
+  <img src="https://github.com/DNXEMPIRE-1/flutter-plant-app/blob/main/sample.png" alt="Plant App " >
 </p>
 
-<p align="center">A Flutter app for plant enthusiasts to explore, identify, and manage their plant collections.</p>
 
 ## Features
 
